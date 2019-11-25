@@ -31,8 +31,7 @@ canvas {
 .content {
   display: flex;
   flex-direction: column;
-  width: 100vw;
-  height: calc(100vh - 13rem);
+  overflow: auto;
   position: relative;
   justify-content: flex-start;
   align-items: center; }

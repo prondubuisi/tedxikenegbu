@@ -345,7 +345,7 @@
 }
 .aboutTop{
     padding-top: 163px;
-    padding-bottom: 230px;
+    padding-bottom: 10px;
     background: #1d1d1d url(../images/bg/1.jpg) no-repeat scroll center center/cover;
 }
 .aboutBottom{
